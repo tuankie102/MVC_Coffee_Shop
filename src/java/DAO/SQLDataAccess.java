@@ -17,7 +17,7 @@ public class SQLDataAccess {
    
     
     private static final String HOST_NAME = "localhost:1433";
-    private static final String DATABASE_NAME = "dbCoffeeShop";
+    private static final String DATABASE_NAME = "dc2x2yi6z4l0vii";
     private static final String UserName = "sa";
     private static final String PassWord = "123123Bb";
 

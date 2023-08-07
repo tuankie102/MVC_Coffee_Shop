@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/web/META-INF/context.xml</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/client/DeleteItemServlet.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/client/CartController.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/web/views/client/Cart.jsp</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/admin/UpProducttoDbServlet.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/web/index.jsp</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/admin/UpOrdertoDbServlet.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Model/Order.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/admin/DeleteProdServlet.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/client/UpCmttoDbServlet.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/admin/bookingDetailController.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/DAO/SQLDataAccess.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/client/AddtoCartController.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/web/views/admin/bookingDetail.jsp</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/client/UpdateQuantityServlet.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/admin/LoginSession.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/client/IndexController.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/src/java/Controller/admin/AdminPageController.java</file>
+            <file>file:/D:/OneDrive%20-%20University%20of%20Technology%20and%20Education/Documents/Study/NetBeans/MVCServletCart/web/views/admin/adminPage.jsp</file>
+        </group>
+    </open-files>
+</project-private>

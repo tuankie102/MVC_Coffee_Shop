@@ -1,0 +1,140 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 8, 2023, 3:28:24 PM
+    Author     : ADMIN
+*/
+.rating {
+			display: flex;
+			align-items: center;
+			font-size: 30px;
+		}
+		.rating label {
+			color: #ccc;
+			cursor: pointer;
+			margin-right: 10px;
+			order: -1;
+		}
+		.rating label:hover,
+		.rating label:hover ~ label,
+		.rating input:checked ~ label {
+			color: #ffcc00;
+		}
+		.rating input {
+			display: none;
+		}
+		.rating label:last-child {
+			margin-right: -30px;
+		}
+                .comments {
+                        display: flex;
+                        flex-direction: column;
+                }
+
+                .comment {
+                        display: flex;
+                        margin-bottom: 16px;
+                }
+
+                .user-avatar {
+                        width: 32px;
+                        height: 32px;
+                        border-radius: 50%;
+                        background-color: #ddd;
+                        margin-right: 8px;
+                }
+
+                .comment-content {
+                        display: flex;
+                        flex-direction: column;
+                }
+
+                .user-name {
+                        font-weight: bold;
+                        margin-bottom: 4px;
+                }
+
+                .comment-text {
+                  margin-bottom: 4px;
+                }
+
+                .comment-actions {
+                  color: #999;
+                  font-size: 12px;
+                }
+
+                .comment-actions a {
+                  color: #999;
+                  text-decoration: none;
+                }
+
+                .comment-actions a:hover {
+                  text-decoration: underline;
+                }
+
+                .comment-form {
+                  display: flex;
+                  
+                }
+
+                .form-input {
+                  display: flex;
+                  flex-direction: column;
+                  width: 50%;
+                }
+
+                .form-input textarea {
+                  border: none;
+                  resize: none;
+                  padding: 8px;
+                  font-size: 14px;
+                  border-radius: 4px;
+                  box-shadow: inset 0 0 0 1px #ddd;
+                  margin-bottom: 8px;
+                }
+
+                .form-actions {
+                  display: flex;
+                  align-items: center;
+                  justify-content: space-between;
+                }
+
+                .form-actions button {
+                  background-color: #3b5998;
+                  color: #fff;
+                  border: none;
+                  border-radius: 4px;
+                  padding: 8px 16px;
+                  font-size: 14px;
+                  cursor: pointer;
+                  
+                }
+
+                .form-actions button:hover {
+                  background-color: #2d4373;
+                }
+
+                .add-photo {
+                  display: flex;
+                  align-items: center;
+                }
+
+                .add-photo input {
+                  display: none;
+                }
+
+                .add-photo label {
+                  color: #3b5998;
+                  text-decoration: underline;
+                  cursor: pointer;
+                }
+                .star-container{
+                    display: flex;
+                    margin-left: 10px;
+                }
+                .user-name{
+                    display: flex;
+                    
+                }

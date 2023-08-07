@@ -1,0 +1,98 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 27, 2023, 10:49:57 PM
+    Author     : Admin
+*/
+
+#cart-icon {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+  transition: all 0.3s ease-in-out
+}
+#cart-icon:hover {
+  cursor: pointer;
+}
+#cart-icon.active {
+  position: fixed;
+  right: 330px; 
+  top: 50px;
+  transition: all 0.3s ease-in-out;
+}
+#cart-count {
+  font-size: 16px;
+  font-weight: bold;
+    
+  left:60%;
+}
+#cart-box {
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  border: 1px solid black;
+  z-index: 9999;
+  transition: all 0.4s ease-in-out;
+}
+
+
+#cart-header {
+        background-color: #964B00;
+        color: #fff;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+    }
+#cart-header h2 {
+        margin: 0;
+    }
+
+#cart-close-button {
+        background-color: transparent;
+        border: none;
+        font-size: 20px;
+        color: #fff;
+        cursor: pointer;
+    }
+#cart-checkout-button {
+    background-color: #8B4513; /* Màu nâu đậm */
+    color: #fff; /* Màu trắng */
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: auto; /* Nằm ở dưới của hộp thoại giỏ hàng */
+    margin-bottom: 10px;
+}
+.add-to-cart-btn {
+    background-color:brown;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff; /* tạo bóng chữ */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* tạo bóng nút */
+}
+
+.add-to-cart-btn:hover {
+    background-color: #FFFFFF;
+    color: #8B5A2B;
+    text-shadow: none;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
